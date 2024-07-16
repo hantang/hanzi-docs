@@ -1,0 +1,6 @@
+# macos
+.DS_Store
+
+# linux
+*~
+
