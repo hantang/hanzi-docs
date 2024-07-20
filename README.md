@@ -4,6 +4,7 @@
 
 参考资料：
 
-- http://www.moe.gov.cn
+- http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/
 - https://forum.freemdict.com/t/topic/21370/
 - https://github.com/ButTaiwan/evilsung
+- http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/
