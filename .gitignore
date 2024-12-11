@@ -5,3 +5,9 @@
 *~
 
 *.txt
+*.csv
+*.tsv
+
+trash/
+todo/
+

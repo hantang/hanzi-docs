@@ -201,6 +201,7 @@
   - 2019-人民教育出版社《义务教育教科书·语文》（统编版）字表.pdf
   - 义务教育语文课程标准（2011年版）-附录.pdf
   - 义务教育语文课程标准（2022年版）-附录.pdf
+  - 《中華大辭典》附錄二-大陸標點符號表.docx
 - **3-政府公文**
   - 19860525-废止第二次汉字简化方案（草案）【国发〔1986〕64号】.pdf
   - 19920707-出版物汉字使用管理规定【新出联[1992]4号】-其他版本.pdf
@@ -243,6 +244,7 @@
 - 教育部本土語言成果參考字表_總表.pdf
 - 教育部本土語言成果參考字表_附表.pdf
 - 臺灣TW-ABCN正字甲乙丙表.pdf
+- 《中華大辭典》附錄一-臺灣標點符號表.docx
 
 ### 中國香港
 
@@ -278,6 +280,7 @@
 - 2007-小学高级华文生字表.pdf
 - 2015-《欢乐伙伴》小学华文生字表.pdf
 - 2015-《欢乐伙伴》小学高级华文生字表.pdf
+- 新加坡-小学第三学年华文课程说明-汉字笔画.pdf
 
 ### 日本-日本国
 
@@ -333,20 +336,6 @@
 
 ### 补充
 
-- **Unicode提案等**
-  - 20091001_WG2_N3695.pdf
-  - IICoreRSIndex.pdf
-  - IICoreRSIndex2.pdf
-  - IRGN1067_IICore22_001-050.pdf
-  - IRGN1067_IICore22_051-100.pdf
-  - IRGN1067_IICore22_101-164.pdf
-  - L2-19-177r-cantonese-bopomofo.pdf
-  - L2-19-346-gongche-policy.pdf
-  - L2-22-040-unencoded-nanmingshi.pdf
-  - L2-23-284-small-er-proposal.pdf
-  - L2-24-059-eaw-yijing-symbols.pdf
-  - RSIndex-v16.0.0.pdf
-  - V2ch02-unification of the han charaters.pdf
 - **其他资料**
   - 新旧字形对照表.png
   - 汉语大词典-新旧字形对照举例.png
@@ -414,6 +403,23 @@
 ---
 
 ## 其他
+
+## Unicode资料等
+
+部分文件较大且资源容易访问，基本不再收录。这里给出参考链接：
+
+- Unicode提案和文档: <https://www.unicode.org/L2/>
+- Unicode版本 
+  - 最新版 <https://www.unicode.org/versions/latest/>
+  - 其中**Han Radical-Stroke Indices**
+    - IICore: <https://www.unicode.org/versions/IICoreRSIndex.pdf>
+    - Unihan Core 2020: <https://www.unicode.org/versions/UnihanCore2020RSIndex.pdf>
+    - 完整：<https://www.unicode.org/Public/16.0.0/charts/RSIndex.pdf>
+- Unicode Han Database (Unihan): <https://unicode.org/reports/tr38>
+  - 数据库查询 <https://www.unicode.org/charts/unihan.html>
+- 香港中文大学cse系归档:
+  - SuperCJK（中日韩汉字超大字符集）: <https://appsrv.cse.cuhk.edu.hk/~irg/supercjk.html> 【仅Version 14.0、 Version 10.2】
+  - IICore（International Ideographs Core，国际表意文字核心）: <https://appsrv.cse.cuhk.edu.hk/~irg/irg/IICore/IICore.htm> 【II Core Version 2.2】
 
 ### 出版印刷相关规范标准
 
